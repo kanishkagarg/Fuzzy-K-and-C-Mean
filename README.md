@@ -3,11 +3,7 @@ It's the Python implementation of the popular Clustering Techniques in Unsupervi
 
  Fuzzy C-mean Clustering
 Unsupervised learning algorithm
- Harsh Vishnoi Aditya gupta Kanishka Garg Naima Farooqi
-16803030
-16803004
-16803012
-16803005
+ 
 
  INTRODUCTION
 Fuzzy clustering (also referred to as soft clustering) is a form of clustering in which each data point can belong to more than one cluster.
@@ -28,4 +24,4 @@ CONCLUSION
 Because of this project, we had a great insight about the clustering techniques and their great use in the real world.
 REFERENCES
 1. www.geeksforgeeks.com 2. Wikipedia
- 2
+ 
